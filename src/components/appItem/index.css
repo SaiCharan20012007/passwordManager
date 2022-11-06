@@ -1,0 +1,179 @@
+.list-container {
+  list-style-type: none;
+  height: 100px;
+  border-color: #b6c3ca;
+  background-color: transparent;
+  border-style: solid;
+  min-width: 250px;
+  border-radius: 7px;
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.profile-card1 {
+  background-color: #0ea5e9;
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  color: white;
+}
+
+.profile-card2 {
+  background-color: #7683cb;
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  color: white;
+}
+.profile-card3 {
+  background-color: #0ea5e9;
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  color: white;
+}
+.profile-card4 {
+  background-color: #94a3b8;
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  color: white;
+}
+.profile-card5 {
+  background-color: #f59e0b;
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  color: white;
+}
+.profile-card6 {
+  background-color: #7683cb;
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  color: white;
+}
+.profile-card7 {
+  background-color: #10b981;
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  color: white;
+}
+.profile-card8 {
+  background-color: #f97316;
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  color: white;
+}
+.profile-card9 {
+  background-color: #14b8a6;
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  color: white;
+}
+.profile-card10 {
+  background-color: #b91c1c;
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  color: white;
+}
+.profile-card11 {
+  background-color: #64748b;
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  color: white;
+}
+.list-des {
+  margin: 5px;
+  color: white;
+  padding: 0px;
+}
+p {
+  margin: 3px;
+}
+.website-style {
+  font-size: 17px;
+}
+.username-style {
+  font-size: 13px;
+}
+.deletebtn {
+  border-width: 0px;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  cursor: pointer;
+}
+.delete-icon {
+  height: 28px;
+}
+.sub {
+  display: flex;
+  align-items: center;
+}
+.stars-icon {
+  height: 15px;
+}
